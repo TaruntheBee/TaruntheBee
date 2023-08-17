@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaruntheBee
-- 👀 I’m interested in Wed & android dev, Arduino , Electronics.
-- 🌱 I’m currently learning Python, web dev.
-- 💞️ I’m looking to collaborate on Arduino stuffs
+- 👀 I’m interested in game dev, Arduino , Electronics.
+- 🌱 I’m currently learning Python, openCV.
+- 💞️ I’m looking to collaborate on robotics projects.
 - 📫 How to reach me https://t.me/ThatsmeTarun (Telegram id)
 
 <!---
